@@ -7,7 +7,6 @@ Balancing daily client queries and customer support services with the ongoing im
       •	Daily Stand-ups Incorporate short team meetings to review priorities and address any immediate concerns.
       
 **2.	Time Management**
-
       •	Time Blocking Dedicate specific time blocks for client queries, customer support, and new implementations. For instance:
 - **8:00 AM - 10:00 AM**: Development work on new features
 - **10:00 AM - 12:00 PM**: Addressing client queries and customer support
